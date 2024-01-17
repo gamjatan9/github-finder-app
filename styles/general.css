@@ -1,0 +1,27 @@
+:root {
+   --color-primary: #6D83CE;
+   --color-secondary: #CDCDCD;
+   --color-accent: #EFB1A3;
+   --color-F: #F1D1C3;
+   --color-A: #AAA;
+   --color-text: #e8f1fd;
+}
+
+
+p {
+   margin-top: 0;
+   margin-bottom: 0;
+}
+
+body {
+   height: 100vh;
+   font-family: Noto Sans;
+   font-style: normal;
+   font-weight: 400;
+   line-height: normal;
+
+   margin: 0;
+   background-color: #fff;
+   color: #000;
+   overflow-x: hidden;
+}
