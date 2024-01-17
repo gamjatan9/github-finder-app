@@ -1,7 +1,7 @@
 # github-finder-app
 
-![스크린샷 2024-01-17 시간: 15 16 29](https://github.com/gamjatan9/github-finder-app/assets/122338050/a72c9d33-77dd-4def-bd86-019e387e05a5)
-![스크린샷 2024-01-17 시간: 15 16 38](https://github.com/gamjatan9/github-finder-app/assets/122338050/65945d1f-9c08-47bf-888f-860b99839d39)
+![스크린샷 2024-01-17 시간: 15 20 03](https://github.com/gamjatan9/github-finder-app/assets/122338050/e3e7d6f7-55fb-4d75-bd87-a56b2ec92107)
+![스크린샷 2024-01-17 시간: 15 20 23](https://github.com/gamjatan9/github-finder-app/assets/122338050/10f5189e-25f5-4a62-b516-d762d0001388)
 
 <br><br>
 
